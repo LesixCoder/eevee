@@ -35,7 +35,7 @@
     "loader-builder": "^2.7.0",
     "loader-connect": "^1.0.1",
     "log4js": "^6.3.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "mysql2": "^2.1.0",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
