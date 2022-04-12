@@ -1,4 +1,0 @@
-*.min.js
-!.*.js
-dist/**/*
-storybook-static/**/*
